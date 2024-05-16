@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align=center>Aufa Syaihan Azzahidi</h1>
 
 <!--
 **aufasyaihan/aufasyaihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +21,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me: aufa.azzahidi@gmail.com
 
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aufasyaihan&theme=radical)
+<div>
+  <div>
+    <h3>My Skills</h3>
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,figma,tailwind,laravel" alt="Skills"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=aufasyaihan&theme=radical" alt="Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aufasyaihan&layout=donut-vertical&theme=radical" alt="Top Language"/>
+  </div>
+</div>
