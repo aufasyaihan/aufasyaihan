@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-An active undergraduate student at Jenderal Soedirman University studying Informatics. Focusing on web development
+<p align=center>An active Informatics undergraduate student at Jenderal Soedirman University focusing on web development.</p>  
 
 <p><img src="https://komarev.com/ghpvc/?username=aufasyaihan&label=Profile%20views&color=0e75b6&style=flat" alt="aufa"/></p>
 
