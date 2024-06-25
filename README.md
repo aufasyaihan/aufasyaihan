@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p><img src="https://komarev.com/ghpvc/?username=aufasyaihan&label=Profile%20views&color=0e75b6&style=flat" alt="aufa"/></p>
 
-- 🌱 I’m currently learning **React.js and Next.js**
+- 🌱 I’m currently mastering **React.js and Next.js**
 - 💬 Ask me about **JavaScript**
 - 📫 How to reach me: aufa.azzahidi@gmail.com
 
