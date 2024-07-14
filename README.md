@@ -26,10 +26,11 @@ Here are some ideas to get you started:
 <div>
   <div>
     <h3>My Skills</h3>
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,figma,tailwind,laravel" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,figma,tailwind,laravel" alt="Skills"/>
   </div>
+  <br />
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=aufasyaihan&theme=radical" alt="Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aufasyaihan&layout=donut-vertical&theme=radical" alt="Top Language"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aufasyaihan&theme=radical" alt="Stats"/>
   </div>
 </div>
