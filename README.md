@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <div>
   <div>
     <h3>My Skills</h3>
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,figma,tailwind,laravel,php" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,next,figma,tailwind,laravel,php,postman,git" alt="Skills"/>
   </div>
   <br />
   <div>
