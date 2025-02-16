@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3>👋 Hi, I'm Aufa Syaihan Azzahidi!<p>but you can call me Aufa</p></h3>
+<h3>👋 Hi, I'm Aufa!</h3>
 🚀 Software Engineer | Frontend Developer Enthusiast<br>🎓 Informatics Student at Universitas Jenderal Soedirman<br>🛠️ Experienced in React and Next.js<br><br>💻 What I Do:<br>- Web Development: Building modern, responsive UIs and scalable backends<br>- Freelance Work: UI/UX design and website development<br>- Tech Research: Analyzing backend frameworks for academic research<br><br>⚡ Fun Facts:<br>🏗️ Frontend dev by day, backend researcher by night—basically a full-stack vampire.<br>🚀 "Just a small fix" somehow turns into a full system refactor.<br>🤡 Said "I’ll sleep early"… then started a new project at midnight.<br><br>Find me on LinkedIn or check out my portfolio at https://aufa-azzahidi.vercel.app
 
 
@@ -21,5 +21,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aufasyaihan&icon=5&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
